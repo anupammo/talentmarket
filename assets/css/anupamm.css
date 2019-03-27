@@ -3,3 +3,33 @@ p.text-uppercase {
     padding: 10px;
     border-radius: 4px;
 }
+span.play-pos {
+    padding: 15px 20px;
+    border-radius: 3px;
+    margin: 20% auto;
+    display: inline-block;
+}
+#soccer-bg {
+  background-color: #2ac11e;
+  margin-left: 3%;
+  margin-right: 3%;
+  background-image: url('https://i.pinimg.com/originals/83/9b/95/839b958e458bf7c8623356d6d953fd08.png');
+  /* background-image: url('http://clipart-library.com/images/dT9rkopgc.png'); */
+  background-size: cover;
+  background-position: bottom;
+}
+figure {
+    width: fit-content;
+    margin: 80px auto;
+}
+figure img {
+  width: 100px;
+  height: auto;
+}
+figcaption {
+    text-transform: uppercase;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    width: 100px;
+}
